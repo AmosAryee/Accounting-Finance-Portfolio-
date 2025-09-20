@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Career Goal
-Aspiring **Chartered Accountant**, **Auditor**, and **Tax Consultant** with a strong interest in financial reporting, data analysis, and internal controls.  
+Aspiring **Chartered Accountant**, **Auditor**, and **Tax Consultant** with a strong interest in financial reporting, audit & taxation, data analysis, and internal controls.  
 Currently completing a **BSc Accounting with Computing** at GCTU (Graduating August 2025, **Current GPA: 3.62**).  
 Planning to pursue **ICAG professional certification** after graduation.
 
