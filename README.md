@@ -59,7 +59,7 @@ Planning to pursue **ICAG professional certification**.
 ## 📂 Portfolio Highlights
 
 
-- [Business KPI Dashboard](link-to-excel-file) – Excel model demonstrating financial insights.
+(https://github.com/AmosAryee/Accounting-Finance-Portfolio-/blob/main/Start%20File%203%20Statement%20Model_v2.xlsx)) – 3 modelfinancial statement demonstrating financial insights.
 - [[https://github.com/AmosAryee/Accounting-Finance-Portfolio-/blob/main/Budget%20and%20Forecast%20Start.xlsx – actual expenses,forcast  and income statement (profit projections).
 
 ---
