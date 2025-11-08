@@ -60,7 +60,7 @@ Planning to pursue **ICAG professional certification**.
 
 
 - [Business KPI Dashboard](link-to-excel-file) – Excel model demonstrating financial insights.
-- [Budget and Forecast Start.xlsx) – actual expenses,forcast  and income statement (profit projections).
+- [[https://github.com/AmosAryee/Accounting-Finance-Portfolio-/blob/main/Budget%20and%20Forecast%20Start.xlsx – actual expenses,forcast  and income statement (profit projections).
 
 ---
 
