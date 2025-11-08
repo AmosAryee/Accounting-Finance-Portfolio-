@@ -9,8 +9,8 @@
 
 ## 🎯 Career Goal
 Aspiring **Chartered Accountant**, **Auditor**, and **Tax Consultant** with a strong interest in financial reporting, audit & taxation, data analysis, and internal controls.  
-Currently completing a **BSc Accounting with Computing** at GCTU (Graduating August 2025, **Current GPA: 3.62**).  
-Planning to pursue **ICAG professional certification** after graduation.
+**.  
+Planning to pursue **ICAG professional certification**.
 
 ---
 
@@ -35,7 +35,7 @@ Planning to pursue **ICAG professional certification** after graduation.
 
 ## 🎓 Education
 - **BSc Accounting with Computing** – Ghana Communication Technology University (GCTU)  
-  *Expected Aug 2025* | Current GPA: **3.62**
+  * GPA: **3.63**
 - Presbyterian Senior High School – Suhum (Business Program), 2020
 
 ---
