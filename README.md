@@ -57,10 +57,9 @@ Planning to pursue **ICAG professional certification**.
 ---
 
 ## 📂 Portfolio Highlights
-> *(Upload your files to GitHub and link them below)*
+
 
 - [Business KPI Dashboard](link-to-excel-file) – Excel model demonstrating financial insights.
-- [Taxation II Notes](link-to-pdf) – Self-study tax notes and ICAG prep materials.
 - [Financial Forecast Model](link-to-excel-file) – Cash flow and profit projections.
 
 ---
